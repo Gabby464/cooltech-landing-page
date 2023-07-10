@@ -54,7 +54,6 @@
   }
 }
 
-// https://piccalil.li/blog/a-modern-css-reset
 
 /* Box sizing rules */
 *,
@@ -576,7 +575,9 @@ input:where([type="text"], [type="email"], ) {
     justify-self: end;
   }
 }
-
+.flow{
+  --flow-spacer: 1rem
+}
 :where(.flow :not(:first-child)) {
   margin-top: var(--flow-spacer, 3em);
 }
