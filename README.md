@@ -1,1 +1,0 @@
-# cooltech-landing-page
