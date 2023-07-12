@@ -6,7 +6,7 @@ function ProductMain() {
       <div className="container">
         <div className="even-columns">
           <div className="flow width-low revert">
-            <h1 className="fs-primary-heading fw-bold  ">Meet Manage AI</h1>
+            <h1 className="fs-primary-heading fw-bold  ">Meet Manage</h1>
             <p>Say goodbye to unnecessary meetings.</p>
             <p>Yes, they waste time...</p>
             <button className="button">Request a demo</button>
@@ -81,7 +81,7 @@ function ProductMain() {
 
     <section className=" padding-block-900">
       <div className="container quote">
-          <h3 className="fw-bold fs-900 center">“The best of team organization and collaboration (without all the bullshit)”</h3>
+          <h3 className="fw-bold fs-900 ">“The best of team organization and collaboration (without all the bullshit)”</h3>
           <p>– Our customers</p>
       </div>
     </section>

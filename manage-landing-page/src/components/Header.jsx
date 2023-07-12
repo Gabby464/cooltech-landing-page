@@ -23,7 +23,6 @@ function Header() {
             <li><a href="#">Product</a></li>
             <li><a href="#">About Us</a></li>
             <li><a href="#">Careers</a></li>
-            <li><a href="#">Community</a></li>
           </ul>
         </nav>
         <button className="button | display-sm-none display-md-inline-flex">Get Started</button>

@@ -635,6 +635,9 @@ input:where([type="text"], [type="email"], ) {
 .margin-bottom-700 {
   margin-block-end: var(--size-700);
 }
+.margin-top-700{
+  margin-top: var(--size-700);
+}
 
 .display-sm-none {
   display: none;

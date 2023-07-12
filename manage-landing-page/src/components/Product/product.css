@@ -36,9 +36,7 @@
   gap: 3em;
   justify-content:center
 }
-.center{
-  justify-items: center;
-}
+
 .quote{
   display: flex;
   flex-direction: column;

@@ -1,0 +1,29 @@
+@import '../../customs.module.css';
+
+hr{
+    margin-block: var(--size-600)
+}
+p{
+    padding-top: var(--size-300);
+}
+.story{
+    align-items: center;
+}
+.values-icons{
+    max-width: var(--size-800);
+    padding-block: 10px;
+    border: 7px;
+    border-radius: 50%;
+}
+.values{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+.list-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -3,14 +3,19 @@ import Header from "./components/Header";
 import HomeMain from "./components/HomeMain";
 import Footer from "./components/Footer";
 import ProductMain from "./components/Product/ProductMain";
-
+import About from "./components/About/About";
+import Careers from "./components/Careers/Careers";
+import Openings from "./components/Careers/Openings/Openings";
 function App() {
 
 
   return (
     <>
       <Header />
-      <ProductMain/>
+      {/* <Careers/> */}
+      <Openings></Openings>
+      {/* <ProductMain/> */}
+      {/* <About/> */}
       {/* <HomeMain /> */}
       <Footer />
     </>
